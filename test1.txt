@@ -1,2 +1,6 @@
 Test one
+<<<<<<< HEAD
 Master branch text
+=======
+Feature text
+>>>>>>> feature
